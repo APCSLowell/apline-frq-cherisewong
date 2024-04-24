@@ -1,10 +1,10 @@
 public class APLine
 {
-  private myX;
-  private myY;
-  private myA;
-  private myB;
-  private myC;
+  private myX = 0;
+  private myY = 0;
+  private myA = 0;
+  private myB = 0;
+  private myC = 0;
 
   public void APLine(int a, int b, int c){
     myA = a;
